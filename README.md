@@ -1,2 +1,2 @@
 ## Internet-Sales-Project
-Big data investigation using pyspark
+Big data investigation template using pyspark for Descriptive and Predictive Analytics
